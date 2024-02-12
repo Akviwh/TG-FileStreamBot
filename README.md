@@ -66,7 +66,7 @@
 ### Deploy to Heroku
 
 > [!NOTE]
-> You'll have to [fork](https://github.com/EverythingSuckz/TG-FileStreamBot/fork) this repository to deploy to Heroku.
+> You'll have to [fork](https://github.com/Akviwh/TG-FileStreamBot/fork) this repository to deploy to Heroku.
 
 Press the below button to fast deploy to Heroku
 
